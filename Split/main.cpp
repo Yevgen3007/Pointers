@@ -1,4 +1,4 @@
-#include "Stdafx.h"
+ï»¿#include "Stdafx.h"
 #include "FillRand.h"
 #include "PrintArr.h"
 #include"Split.h"
@@ -8,7 +8,7 @@ void main()
 	const int N = 10;
 	int arr[N];
 	FillRand(arr, N);
-	cout << "\t" << "Èñõîäíûé ìàññèâ" << endl;
+	cout << "\t" << "Ð˜ÑÑ…Ð¾Ð´Ð½Ñ‹Ð¹ Ð¼Ð°ÑÑÐ¸Ð²" << endl;
 	PrintArr(arr, N);
 	cout << endl;
 	Split(arr, N);
