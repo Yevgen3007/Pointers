@@ -130,6 +130,13 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="FillRand_PrintArr.h" />
+    <ClInclude Include="InsertErase.h" />
+    <ClInclude Include="PushPopBack.h" />
+    <ClInclude Include="PushPopFront.h" />
+    <ClInclude Include="stdafx.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

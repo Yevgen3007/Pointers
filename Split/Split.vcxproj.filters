@@ -23,13 +23,13 @@
     <ClInclude Include="FillRand.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="PrintArr.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="Split.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PrintArr.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
